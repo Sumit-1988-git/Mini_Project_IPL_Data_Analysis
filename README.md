@@ -102,4 +102,5 @@ Rich visual analysis and insights
 
 📧 Author
 Sumit Kumar Sahu
-Connect with me on LinkedIn[](www.linkedin.com/in/sumit-sahu-b8033a15)
+Connect with me on LinkedIn 
+www.linkedin.com/in/sumit-sahu-b8033a15
