@@ -119,7 +119,7 @@ Great for sports analytics, strategy formulation, and cricket data storytelling
 
 Rich visual analysis and insights
 
-Note: 
+🧾 Note: 
 
 There may be multiple solution approaches to the questions. However, I have provided alternate solutions for a few questions. You are encouraged to explore and find your own methods too!
 
