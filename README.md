@@ -88,19 +88,26 @@ Line graphs and distributions where applicable
 
 📤 How to Run the Project
 
-Clone this repository:
+1. Clone this repository:
 
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/IPL-EDA-2008-2020.git
-Install required dependencies:
+
+2. Place the CSVs in the project directory
+
+3. Install required dependencies:
 
 bash
 Copy
 Edit
 pip install pandas matplotlib seaborn
-Run the Jupyter notebook and follow along with the question-wise analysis.
+
+Run the Jupyter Notebook (or Python script)
+
+4. Follow the markdown cells to view each insight along with the question-wise analysis.
+
 
 📌 Project Highlights
 
@@ -111,6 +118,10 @@ Clean and structured code with explanations
 Great for sports analytics, strategy formulation, and cricket data storytelling
 
 Rich visual analysis and insights
+
+Note: 
+
+There may be multiple solution approaches to the questions. However, I have provided alternate solutions for a few questions. You are encouraged to explore and find your own methods too!
 
 📧 Author
 
